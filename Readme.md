@@ -11,11 +11,17 @@
 
 ## API
 
-### `days(new Date())`
+### `days(date)`
 
-### `days(8)`
+get the number of days in the month of the provided date
 
-### `days(2013, 8)`
+### `days(month)`
+
+get the number of days in the provided month; assumes current year
+
+### `days(year, month)`
+
+get the number of days in the provided year/month pair
 
 ## License
 
