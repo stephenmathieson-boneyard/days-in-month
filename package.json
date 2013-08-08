@@ -1,0 +1,27 @@
+{
+  "name": "days-in-month",
+  "version": "0.0.0",
+  "description": "get the number of days in the given month",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/days-in-month.git"
+  },
+  "keywords": [
+    "date",
+    "days",
+    "month"
+  ],
+  "author": "stephen mathieson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenmathieson/days-in-month/issues"
+  },
+  "dependencies": {}
+}

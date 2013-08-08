@@ -1,0 +1,14 @@
+{
+  "name": "days-in-month",
+  "repo": "stephenmathieson/days-in-month",
+  "description": "get the number of days in the given month (gregorian calander)",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
