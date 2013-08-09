@@ -1,13 +1,17 @@
 
 # days-in-month
 
-  get the number of days in the given month (gregorian calander)
+  get the number of days in the given month (Gregorian calendar)
 
 ## Installation
 
   Install with [component(1)](http://component.io):
 
     $ component install stephenmathieson/days-in-month
+
+  Install with [npm](https://npmjs.org):
+
+    $ npm install days-in-month
 
 ## API
 

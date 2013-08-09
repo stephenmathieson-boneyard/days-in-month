@@ -1,6 +1,6 @@
 {
   "name": "days-in-month",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "get the number of days in the given month",
   "main": "index.js",
   "directories": {
